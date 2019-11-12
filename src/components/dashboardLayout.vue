@@ -50,7 +50,13 @@
                 items: [{
                     title: 'User Controller',
                     icon: 'mdi-human-male'
-                }, ],
+                    },
+                    {
+                        title: 'Sparepart Controller',
+                        icon: 'mdi-screwdriver'
+                    }
+                    
+                ],
             }
         },
     } 
